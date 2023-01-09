@@ -13,7 +13,7 @@ __TAs:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 This repository is a companion to the course [__Applied Data Science for Social Scientists__](https://vergil.registrar.columbia.edu/#/courses/QMSSG5069_001_2022_1) taught at the [__Quantitative Methods in the Social Sciences__](http://qmss.columbia.edu/) program over the Spring of 2023.
 
-It contains curated reference materials, slides and sample code. You can find the most updated version of the course syllabus [here](/syllabus/GR5069_Spring2022.pdf). Make sure to check regularly for updates.
+It contains curated reference materials, slides and sample code. You can find the most updated version of the course syllabus [here](/syllabus/GR5069_Spring2023.pdf). Make sure to check regularly for updates.
 
 
 ## Overview
