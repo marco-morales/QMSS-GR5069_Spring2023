@@ -1,4 +1,4 @@
-## WEEK 1 - Overview: Data Science & Data Engineering Perspectives
+## Topic 1 - bakground: Data Science & Data Engineering Perspectives
 
 #### In preparation for this week:
 * read/listen/watch as much as you can from the annotated materials below
