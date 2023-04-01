@@ -40,15 +40,21 @@ It is assumed that students have basic to intermediate knowledge of object-orien
 
 ```
 outline\
+
+     --- fundamentals and best practices ---
+	 
 | -- topic  1 : DATA SCIENCE AS A FUNCTION
 | -- topic  2 : VERSION CONTROL & GITHUB
 | -- topic  3 : STRUCTURING YOUR WORKSPACE: DS & DE PERSPECTIVES
 | -- topic  4 : CODING ETIQUETTE
+
+     --- practice of Data Science ---
+
 | -- topic  5 : DATA PIPELINE IN PRACTICE
 | -- topic  6 : MISSING DATA & DATA QUALITY
-| -- topic  7 : MODEL DEPLOYMENT & VERSIONING,
+| -- topic  7 : EXPLANATION v PREDICTION
+| -- topic  8 : MODEL DEPLOYMENT & VERSIONING,
                WORKING ENVIRONMENTS (DEV, STAGING, PROD)
-| -- topic  8 : EXPLANATION v PREDICTION
 | -- topic  9 : MODEL EVALUATION
 | -- topic 10 : FRONTENDS AND DATA VISUALIZATION
 | -- topic 11 : WORKFLOW COLLABORATION
