@@ -1,7 +1,7 @@
-## Topic 1 - bakground: Data Science & Data Engineering Perspectives
+## TOPIC 1 - Data Science as a Function
 
 #### In preparation for this week:
-* read/listen/watch as much as you can from the annotated materials below
+* read/listen/watch as much as you can from the annotated materials below that provide some necessary context for the lecture on this topic
 
 ---
 
@@ -41,4 +41,8 @@ In addition to understanding the technical discussions above, you should also kn
 
 Debbie Berebichez's (2019) interview - [__Critical Thinking in Data Science__](https://soundcloud.com/dataframed/critical-thinking-in-data-science) - in the [DataFramed podcast](https://soundcloud.com/dataframed) gives a very intuitive and personal perspective on what critical thinking should mean for a Data Scientist. But critical thinking in Data Science must start with the "data". Read Cassie Kozyrkov's (2020) blog post - [__Understanding data__](https://towardsdatascience.com/what-is-data-8f94ae3a56b4) - where she makes a very compelling case for how data fits in Data Science and why we should avoid thinking about data with a capital "D".
 
-The final piece of critical thinking in Data Science can be found in Cassie Kozyrkov's (2019) article - [__The First Thing Great Decision Makers Do__](https://hbr.org/2019/06/the-first-thing-great-decision-makers-do) - where she discusses the importance of thoroughly understanding the context of a problem to be able to think critically about how best to solve it, even before you start thinking of the Data Science tools to apply.  
+A complementary argument for the need of critical thinking in Data Science can be found in Cassie Kozyrkov's (2019) article - [__The First Thing Great Decision Makers Do__](https://hbr.org/2019/06/the-first-thing-great-decision-makers-do) - where she discusses the importance of thoroughly understanding the context of a problem to be able to think critically about how best to solve it, even before you start thinking of the Data Science tools to apply.
+
+If you are going to read just one piece about critical thinking in Data Science, read the transcript of Hanna Wallach's (2014) NIPS talk - [__Big Data, Machine Learning, and the Social Sciences: Fairness, Accountability, and Transparency__](https://hannawallach.medium.com/big-data-machine-learning-and-the-social-sciences-927a8e20460d). She does a fantastic job of explaining why we need critical thinking about data: most of the massive data out there used in Data Science is _granular_ data about the _behavior of individuals_. She then proceeds to draw  the obvious conclusion: we need __MORE__ Social Scientists in Data Science. Her logic is indisputable: 
+
+> Few computer scientists or engineers would consider developing models or tools for analyzing astronomy data without involving astronomers. So, why, then, are so many methods for analyzing social data developed without the involvement social scientists?
